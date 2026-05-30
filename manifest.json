@@ -1,0 +1,13 @@
+{
+  "background_color": "#030974",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Santa Biblia Reina Valera 1960",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Biblia 1960",
+  "start_url": "https://mi-biblia-1960netlifyapp.netlify.app/",
+  "theme_color": "#a83641",
+  "description": "Aplicación de lectura de la Santa Biblia, con diversas alternativas interactivas y juego, para ver, leer, aprender y gozarse de la palabra de Dios y los consejos de nuestro señor Jesús.",
+  "id": "com.mibiblia.app"
+}

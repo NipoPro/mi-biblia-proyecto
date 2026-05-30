@@ -1,0 +1,6 @@
+{
+  "name": "Biblia Reina Valera 1960",
+  "description": "Una aplicación web de la Santa Biblia Reina Valera 1960 con lectura, búsqueda temática y juegos de trivia y completar palabras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
